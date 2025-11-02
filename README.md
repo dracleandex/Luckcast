@@ -1,4 +1,4 @@
-# Luckcastimport React, { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 
 // LuckCast - Daily Luck Score // Single-file React component (Next.js / Vercel friendly) // Tailwind CSS assumed available in the project (but styling will still be readable without it)
 
